@@ -241,4 +241,4 @@ This repository serves as the official landing page for Ulead Photo Explorer. Th
 **Get the most recent version of Ulead Photo Explorer today!**
 
 ---
-**Last updated:** 2026-10-21 21:07:34 UTC
+**Last updated:** 2026-10-22 00:21:33 UTC
